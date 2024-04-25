@@ -1,4 +1,6 @@
-# Throughout the summer of 2023, I had the opportunity to undertake a data scientist internship at dData company. This experience provided me with a comprehensive understanding of various aspects within the data scientist field, including XGBoost modeling, PowerBI utilization, data cleansing techniques, and data interpretation methodologies.
+### Data Scientist Intern, dData Company, Thailand
+
+Throughout the summer of 2023, I had the opportunity to undertake a data scientist internship at dData company. This experience provided me with a comprehensive understanding of various aspects within the data scientist field, including XGBoost modeling, PowerBI utilization, data cleansing techniques, and data interpretation methodologies.
 
 The final project of my internship involved the following key components:
 
